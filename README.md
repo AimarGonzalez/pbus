@@ -1,4 +1,4 @@
 pbus
 ====
 
-Personal event bus
+Personal event bus.
