@@ -1,4 +1,5 @@
-pbus
+PBus
 ====
 
 Personal event bus.
+
